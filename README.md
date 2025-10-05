@@ -1,7 +1,13 @@
-## Hi there 👋
+### ¡Hola!
+
+I've been coding for fun and money for more than 32 years.
+
+Ruby is my favorite language, and 2 spaces is the only right way to indent code.
+
+You can find me on Bluesky as [@sdelmont.com](https://bsky.app/profile/sdelmont.com)
 
 <!--
-**Delmonted/Delmonted** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sd/sd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
